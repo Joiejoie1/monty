@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/99324596/177728482-f43241c8-adec-4101-9610-a839f0b016a2.png)
+
 # monty
 ALX C - Stacks, Queues - LIFO, FIFO
 
@@ -120,7 +122,7 @@ pall This is the end of our program. Monty is awesome!$
 julien@ubuntu:~/monty$
 The monty program
 
-Usage: monty file
+# Usage: monty file
 where file is the path to the file containing Monty byte code
 If the user does not give any file or more than one argument to your program, print the error message USAGE: monty file, followed by a new line, and exit with the status EXIT_FAILURE
 If, for any reason, it’s not possible to open the file, print the error message Error: Can't open file <file>, followed by a new line, and exit with the status EXIT_FAILURE
